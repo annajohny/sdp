@@ -1,0 +1,4 @@
+Symlinking /home/anna/catkin_ws/devel/lib/libactivated_plugin.so
+Symlinking /home/anna/catkin_ws/devel/lib/pkgconfig/tug_activated_observer.pc
+Symlinking /home/anna/catkin_ws/devel/share/tug_activated_observer/cmake/tug_activated_observerConfig.cmake
+Symlinking /home/anna/catkin_ws/devel/share/tug_activated_observer/cmake/tug_activated_observerConfig-version.cmake

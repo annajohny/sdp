@@ -1,0 +1,5 @@
+utils/tug_auto_bag
+/home/anna/catkin_ws/devel/.private/tug_auto_bag/cmake.lock /home/anna/catkin_ws/devel/./cmake.lock
+/home/anna/catkin_ws/devel/.private/tug_auto_bag/lib/pkgconfig/tug_auto_bag.pc /home/anna/catkin_ws/devel/lib/pkgconfig/tug_auto_bag.pc
+/home/anna/catkin_ws/devel/.private/tug_auto_bag/share/tug_auto_bag/cmake/tug_auto_bagConfig-version.cmake /home/anna/catkin_ws/devel/share/tug_auto_bag/cmake/tug_auto_bagConfig-version.cmake
+/home/anna/catkin_ws/devel/.private/tug_auto_bag/share/tug_auto_bag/cmake/tug_auto_bagConfig.cmake /home/anna/catkin_ws/devel/share/tug_auto_bag/cmake/tug_auto_bagConfig.cmake

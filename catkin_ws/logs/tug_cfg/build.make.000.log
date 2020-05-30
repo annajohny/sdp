@@ -1,0 +1,18 @@
+[35m[1mScanning dependencies of target tug_cfg_cmake_extras[0m
+[  0%] Built target tug_cfg_cmake_extras
+[35m[1mScanning dependencies of target tug_cfg[0m
+[  7%] [32mBuilding CXX object CMakeFiles/tug_cfg.dir/src/collection.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/tug_cfg.dir/src/configuration.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/tug_cfg.dir/src/default_constrainer.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/tug_cfg.dir/src/error_handler.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/tug_cfg.dir/src/log_error_handler.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/tug_cfg.dir/src/ros_dynamic_config_describer.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/tug_cfg.dir/src/ros_dynamic_config_reader.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/tug_cfg.dir/src/ros_dynamic_config_server.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/tug_cfg.dir/src/ros_dynamic_config_writer.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/tug_cfg.dir/src/key.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/tug_cfg.dir/src/ros_param_reader.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/tug_cfg.dir/src/struct.cpp.o[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/tug_cfg.dir/src/yaml_reader.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/anna/catkin_ws/devel/.private/tug_cfg/lib/libtug_cfg.so[0m
+[100%] Built target tug_cfg

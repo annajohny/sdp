@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target tug_testing[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/tug_testing.dir/src/ParameterHelper.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/anna/catkin_ws/devel/.private/tug_testing/lib/libtug_testing.so[0m
+[100%] Built target tug_testing

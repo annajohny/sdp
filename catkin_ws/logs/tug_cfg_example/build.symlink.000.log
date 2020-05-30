@@ -1,0 +1,5 @@
+Symlinking /home/anna/catkin_ws/devel/lib/pkgconfig/tug_cfg_example.pc
+Symlinking /home/anna/catkin_ws/devel/lib/tug_cfg_example/tug_cfg_example_node
+Symlinking /home/anna/catkin_ws/devel/include/tug_cfg_example/ExampleConfig.h
+Symlinking /home/anna/catkin_ws/devel/share/tug_cfg_example/cmake/tug_cfg_exampleConfig-version.cmake
+Symlinking /home/anna/catkin_ws/devel/share/tug_cfg_example/cmake/tug_cfg_exampleConfig.cmake

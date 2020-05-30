@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_protobuf_cpp_example/share/tug_protobuf_cpp_example/cmake/tug_protobuf_cpp_exampleConfig-version.cmake

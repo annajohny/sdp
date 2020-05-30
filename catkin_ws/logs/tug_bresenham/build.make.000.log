@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target tug_bresenham[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/tug_bresenham.dir/src/basic_circle_iterator.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/tug_bresenham.dir/src/circle_iterator.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/tug_bresenham.dir/src/line_iterator.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/anna/catkin_ws/devel/.private/tug_bresenham/lib/libtug_bresenham.so[0m
+[100%] Built target tug_bresenham

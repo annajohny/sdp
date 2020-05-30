@@ -1,0 +1,18 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _tug_diagnosis_msgs_generate_messages_check_deps_node_configuration
+[  0%] Built target _tug_diagnosis_msgs_generate_messages_check_deps_diagnosis_set
+[  0%] Built target _tug_diagnosis_msgs_generate_messages_check_deps_observer_configuration
+[  0%] Built target _tug_diagnosis_msgs_generate_messages_check_deps_diagnosis
+[  0%] Built target _tug_diagnosis_msgs_generate_messages_check_deps_configuration
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _tug_diagnosis_msgs_generate_messages_check_deps_resource_mode_assignement
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _tug_diagnosis_msgs_generate_messages_check_deps_DiagnosisConfiguration
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[ 18%] Built target tug_diagnosis_msgs_generate_messages_cpp
+[ 42%] Built target tug_diagnosis_msgs_generate_messages_py
+[ 60%] Built target tug_diagnosis_msgs_generate_messages_nodejs
+[ 78%] Built target tug_diagnosis_msgs_generate_messages_lisp
+[100%] Built target tug_diagnosis_msgs_generate_messages_eus
+[100%] Built target tug_diagnosis_msgs_generate_messages

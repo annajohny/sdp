@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_devel_utils/lib/pkgconfig/tug_devel_utils.pc

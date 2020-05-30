@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_resource_monitor/share/tug_resource_monitor/cmake/tug_resource_monitor-msg-extras.cmake

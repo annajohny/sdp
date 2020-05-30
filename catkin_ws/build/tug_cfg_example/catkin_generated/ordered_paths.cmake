@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/anna/catkin_ws/devel/.private/tug_cfg/lib;/opt/ros/kinetic/lib")

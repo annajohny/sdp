@@ -1,0 +1,8 @@
+prefix=/home/anna/catkin_ws/devel/.private/tug_cfg_example
+
+Name: tug_cfg_example
+Description: Description of tug_cfg_example
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

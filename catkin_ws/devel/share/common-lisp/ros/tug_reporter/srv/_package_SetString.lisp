@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_reporter/share/common-lisp/ros/tug_reporter/srv/_package_SetString.lisp

@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_velocity_observer/share/tug_velocity_observer/cmake/tug_velocity_observerConfig-version.cmake

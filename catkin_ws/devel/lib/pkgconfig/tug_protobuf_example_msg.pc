@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_protobuf_example_msg/lib/pkgconfig/tug_protobuf_example_msg.pc

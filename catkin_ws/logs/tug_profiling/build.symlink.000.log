@@ -1,0 +1,5 @@
+Symlinking /home/anna/catkin_ws/devel/lib/libtug_profiling.so
+Symlinking /home/anna/catkin_ws/devel/lib/pkgconfig/tug_profiling.pc
+Symlinking /home/anna/catkin_ws/devel/include/tug_profiling/StatisticsPrinterConfig.h
+Symlinking /home/anna/catkin_ws/devel/share/tug_profiling/cmake/tug_profilingConfig-version.cmake
+Symlinking /home/anna/catkin_ws/devel/share/tug_profiling/cmake/tug_profilingConfig.cmake

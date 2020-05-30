@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_resource_monitor/share/roseus/ros/tug_resource_monitor/manifest.l

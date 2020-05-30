@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_timestamp_observer/share/tug_timestamp_observer/cmake/tug_timestamp_observerConfig-version.cmake

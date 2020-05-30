@@ -1,0 +1,5 @@
+Symlinking /home/anna/catkin_ws/devel/lib/libvelocity_observer.so
+Symlinking /home/anna/catkin_ws/devel/lib/libvelocity_plugin.so
+Symlinking /home/anna/catkin_ws/devel/lib/pkgconfig/tug_velocity_observer.pc
+Symlinking /home/anna/catkin_ws/devel/share/tug_velocity_observer/cmake/tug_velocity_observerConfig.cmake
+Symlinking /home/anna/catkin_ws/devel/share/tug_velocity_observer/cmake/tug_velocity_observerConfig-version.cmake

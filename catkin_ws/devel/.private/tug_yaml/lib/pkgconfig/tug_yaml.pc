@@ -1,0 +1,8 @@
+prefix=/home/anna/catkin_ws/devel/.private/tug_yaml
+
+Name: tug_yaml
+Description: Description of tug_yaml
+Version: 0.0.0
+Cflags: -I/home/anna/catkin_ws/src/utils/tug_yaml/include
+Libs: -L${prefix}/lib 
+Requires: 

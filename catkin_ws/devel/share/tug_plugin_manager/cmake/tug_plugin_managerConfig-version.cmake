@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_plugin_manager/share/tug_plugin_manager/cmake/tug_plugin_managerConfig-version.cmake

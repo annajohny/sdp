@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anna/catkin_ws/src/utils/tug_bresenham/include/tug_bresenham/basic_circle_iterator.h
+stdint.h
+-
+
+/home/anna/catkin_ws/src/utils/tug_bresenham/include/tug_bresenham/circle_iterator.h
+cstdlib
+-
+tug_bresenham/basic_circle_iterator.h
+-
+
+/home/anna/catkin_ws/src/utils/tug_bresenham/include/tug_bresenham/line_iterator.h
+
+/home/anna/catkin_ws/src/utils/tug_bresenham/src/basic_circle_iterator.cpp
+tug_bresenham/basic_circle_iterator.h
+-
+stdexcept
+-
+
+/home/anna/catkin_ws/src/utils/tug_bresenham/src/circle_iterator.cpp
+tug_bresenham/circle_iterator.h
+-
+
+/home/anna/catkin_ws/src/utils/tug_bresenham/src/line_iterator.cpp
+tug_bresenham/line_iterator.h
+-
+cmath
+-
+

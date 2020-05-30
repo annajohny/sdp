@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_timestamp_observer/lib/pkgconfig/tug_timestamp_observer.pc

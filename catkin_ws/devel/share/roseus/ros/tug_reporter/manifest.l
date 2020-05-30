@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_reporter/share/roseus/ros/tug_reporter/manifest.l

@@ -1,0 +1,8 @@
+prefix=/home/anna/catkin_ws/devel/.private/tug_protobuf_cpp_example
+
+Name: tug_protobuf_cpp_example
+Description: Description of tug_protobuf_cpp_example
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

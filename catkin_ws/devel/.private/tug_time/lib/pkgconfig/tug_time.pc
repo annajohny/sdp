@@ -1,0 +1,8 @@
+prefix=/home/anna/catkin_ws/devel/.private/tug_time
+
+Name: tug_time
+Description: Description of tug_time
+Version: 0.0.0
+Cflags: -I/home/anna/catkin_ws/src/utils/tug_time/include
+Libs: -L${prefix}/lib -ltug_time
+Requires: 

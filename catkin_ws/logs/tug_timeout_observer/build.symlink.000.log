@@ -1,0 +1,4 @@
+Symlinking /home/anna/catkin_ws/devel/lib/libtimeout_plugin.so
+Symlinking /home/anna/catkin_ws/devel/lib/pkgconfig/tug_timeout_observer.pc
+Symlinking /home/anna/catkin_ws/devel/share/tug_timeout_observer/cmake/tug_timeout_observerConfig-version.cmake
+Symlinking /home/anna/catkin_ws/devel/share/tug_timeout_observer/cmake/tug_timeout_observerConfig.cmake

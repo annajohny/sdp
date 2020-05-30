@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_diagnosis/lib/pkgconfig/tug_diagnosis.pc

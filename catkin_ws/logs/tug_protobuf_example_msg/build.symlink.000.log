@@ -1,0 +1,3 @@
+Symlinking /home/anna/catkin_ws/devel/lib/pkgconfig/tug_protobuf_example_msg.pc
+Symlinking /home/anna/catkin_ws/devel/share/tug_protobuf_example_msg/cmake/tug_protobuf_example_msgConfig-version.cmake
+Symlinking /home/anna/catkin_ws/devel/share/tug_protobuf_example_msg/cmake/tug_protobuf_example_msgConfig.cmake

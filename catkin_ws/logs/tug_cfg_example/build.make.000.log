@@ -1,0 +1,9 @@
+[35m[1mScanning dependencies of target tug_cfg_example_tug_cfg_generate_cpp_ExampleConfig[0m
+[ 33%] [34m[1mGenerating C++ code from tug_cfg_example/cfg/ExampleConfig.yaml[0m
+[ 33%] Built target tug_cfg_example_tug_cfg_generate_cpp_ExampleConfig
+[35m[1mScanning dependencies of target tug_cfg_example_tug_cfg[0m
+[ 33%] Built target tug_cfg_example_tug_cfg
+[35m[1mScanning dependencies of target tug_cfg_example_node[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/tug_cfg_example_node.dir/src/example_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/anna/catkin_ws/devel/.private/tug_cfg_example/lib/tug_cfg_example/tug_cfg_example_node[0m
+[100%] Built target tug_cfg_example_node

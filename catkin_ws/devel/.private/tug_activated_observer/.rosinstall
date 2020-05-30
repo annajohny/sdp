@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/anna/catkin_ws/devel/.private/tug_activated_observer/setup.sh

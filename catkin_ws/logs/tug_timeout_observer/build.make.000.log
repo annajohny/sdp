@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target timeout_plugin[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/timeout_plugin.dir/src/TimeoutPlugin.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/timeout_plugin.dir/src/TimeoutSubs.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/timeout_plugin.dir/src/TimeoutBase.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/anna/catkin_ws/devel/.private/tug_timeout_observer/lib/libtimeout_plugin.so[0m
+[100%] Built target timeout_plugin

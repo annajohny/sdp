@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_resource_monitor/share/gennodejs/ros/tug_resource_monitor/msg/NodeInfoArray.js

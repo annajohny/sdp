@@ -1,0 +1,8 @@
+prefix=/home/anna/catkin_ws/devel/.private/tug_diagnosis_msgs
+
+Name: tug_diagnosis_msgs
+Description: Description of tug_diagnosis_msgs
+Version: 0.0.0
+Cflags: -I/home/anna/catkin_ws/devel/.private/tug_diagnosis_msgs/include
+Libs: -L${prefix}/lib 
+Requires: 

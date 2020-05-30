@@ -1,0 +1,4 @@
+Linked: (/home/anna/catkin_ws/devel/.private/tug_plugin_manager/lib/libtug_plugin_manager.so, /home/anna/catkin_ws/devel/lib/libtug_plugin_manager.so)
+Linked: (/home/anna/catkin_ws/devel/.private/tug_plugin_manager/lib/pkgconfig/tug_plugin_manager.pc, /home/anna/catkin_ws/devel/lib/pkgconfig/tug_plugin_manager.pc)
+Linked: (/home/anna/catkin_ws/devel/.private/tug_plugin_manager/share/tug_plugin_manager/cmake/tug_plugin_managerConfig-version.cmake, /home/anna/catkin_ws/devel/share/tug_plugin_manager/cmake/tug_plugin_managerConfig-version.cmake)
+Linked: (/home/anna/catkin_ws/devel/.private/tug_plugin_manager/share/tug_plugin_manager/cmake/tug_plugin_managerConfig.cmake, /home/anna/catkin_ws/devel/share/tug_plugin_manager/cmake/tug_plugin_managerConfig.cmake)

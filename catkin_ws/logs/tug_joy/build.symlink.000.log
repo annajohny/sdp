@@ -1,0 +1,4 @@
+Symlinking /home/anna/catkin_ws/devel/lib/pkgconfig/tug_joy.pc
+Symlinking /home/anna/catkin_ws/devel/lib/python2.7/dist-packages/tug_joy/__init__.py
+Symlinking /home/anna/catkin_ws/devel/share/tug_joy/cmake/tug_joyConfig-version.cmake
+Symlinking /home/anna/catkin_ws/devel/share/tug_joy/cmake/tug_joyConfig.cmake

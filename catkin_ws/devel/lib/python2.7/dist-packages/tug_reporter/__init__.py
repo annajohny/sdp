@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_reporter/lib/python2.7/dist-packages/tug_reporter/__init__.py

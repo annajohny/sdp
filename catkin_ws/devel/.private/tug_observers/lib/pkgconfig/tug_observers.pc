@@ -1,0 +1,8 @@
+prefix=/home/anna/catkin_ws/devel/.private/tug_observers
+
+Name: tug_observers
+Description: Description of tug_observers
+Version: 0.0.0
+Cflags: -I/home/anna/catkin_ws/src/model_based_diagnosis/tug_observers/tug_observers/include
+Libs: -L${prefix}/lib -ltug_observer_plugin_base
+Requires: tug_observers_msgs

@@ -1,0 +1,8 @@
+prefix=/home/anna/catkin_ws/devel/.private/tug_moveing_observer
+
+Name: tug_moveing_observer
+Description: Description of tug_moveing_observer
+Version: 0.0.0
+Cflags: -I/home/anna/catkin_ws/src/model_based_diagnosis/tug_observers/tug_observer_plugins/tug_moveing_observer/include
+Libs: -L${prefix}/lib -lmoveing_plugin
+Requires: 

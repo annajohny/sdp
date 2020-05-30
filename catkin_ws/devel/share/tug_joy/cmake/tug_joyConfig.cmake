@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_joy/share/tug_joy/cmake/tug_joyConfig.cmake

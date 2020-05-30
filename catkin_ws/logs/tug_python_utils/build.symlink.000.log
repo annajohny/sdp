@@ -1,0 +1,4 @@
+Symlinking /home/anna/catkin_ws/devel/lib/pkgconfig/tug_python_utils.pc
+Symlinking /home/anna/catkin_ws/devel/lib/python2.7/dist-packages/tug_python_utils/__init__.py
+Symlinking /home/anna/catkin_ws/devel/share/tug_python_utils/cmake/tug_python_utilsConfig.cmake
+Symlinking /home/anna/catkin_ws/devel/share/tug_python_utils/cmake/tug_python_utilsConfig-version.cmake

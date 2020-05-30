@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/anna/catkin_ws/devel/.private/tug_cfg_example/setup.sh

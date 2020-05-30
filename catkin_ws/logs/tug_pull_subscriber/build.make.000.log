@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target tug_pull_subscriber[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/tug_pull_subscriber.dir/src/PullSubscriber.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/anna/catkin_ws/devel/.private/tug_pull_subscriber/lib/libtug_pull_subscriber.so[0m
+[100%] Built target tug_pull_subscriber

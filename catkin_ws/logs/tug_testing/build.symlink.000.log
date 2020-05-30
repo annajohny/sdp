@@ -1,0 +1,4 @@
+Symlinking /home/anna/catkin_ws/devel/lib/libtug_testing.so
+Symlinking /home/anna/catkin_ws/devel/lib/pkgconfig/tug_testing.pc
+Symlinking /home/anna/catkin_ws/devel/share/tug_testing/cmake/tug_testingConfig-version.cmake
+Symlinking /home/anna/catkin_ws/devel/share/tug_testing/cmake/tug_testingConfig.cmake

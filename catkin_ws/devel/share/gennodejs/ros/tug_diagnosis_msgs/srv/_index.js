@@ -1,0 +1,1 @@
+/home/anna/catkin_ws/devel/.private/tug_diagnosis_msgs/share/gennodejs/ros/tug_diagnosis_msgs/srv/_index.js

@@ -1,0 +1,13 @@
+[35m[1mScanning dependencies of target tug_profiling_tug_cfg_generate_cpp_StatisticsPrinterConfig[0m
+[ 14%] [34m[1mGenerating C++ code from tug_profiling/cfg/StatisticsPrinterConfig.yaml[0m
+[ 14%] Built target tug_profiling_tug_cfg_generate_cpp_StatisticsPrinterConfig
+[35m[1mScanning dependencies of target tug_profiling_tug_cfg[0m
+[ 14%] Built target tug_profiling_tug_cfg
+[35m[1mScanning dependencies of target tug_profiling[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/tug_profiling.dir/src/duration_measurement.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/tug_profiling.dir/src/frequency_measurement.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/tug_profiling.dir/src/profiler.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/tug_profiling.dir/src/simple_formatter.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/tug_profiling.dir/src/statistics_printer.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/anna/catkin_ws/devel/.private/tug_profiling/lib/libtug_profiling.so[0m
+[100%] Built target tug_profiling
