@@ -1,6 +1,0 @@
-[35m[1mScanning dependencies of target resources_plugin[0m
-[ 25%] [32mBuilding CXX object CMakeFiles/resources_plugin.dir/src/ResourcesPlugin.cpp.o[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/resources_plugin.dir/src/NodeResource.cpp.o[0m
-[ 75%] [32mBuilding CXX object CMakeFiles/resources_plugin.dir/src/NodeResourceState.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/anna/catkin_ws/devel/.private/tug_resource_observer/lib/libresources_plugin.so[0m
-[100%] Built target resources_plugin

@@ -1,6 +1,0 @@
-utils/tug_bresenham
-/home/anna/catkin_ws/devel/.private/tug_bresenham/cmake.lock /home/anna/catkin_ws/devel/./cmake.lock
-/home/anna/catkin_ws/devel/.private/tug_bresenham/lib/libtug_bresenham.so /home/anna/catkin_ws/devel/lib/libtug_bresenham.so
-/home/anna/catkin_ws/devel/.private/tug_bresenham/lib/pkgconfig/tug_bresenham.pc /home/anna/catkin_ws/devel/lib/pkgconfig/tug_bresenham.pc
-/home/anna/catkin_ws/devel/.private/tug_bresenham/share/tug_bresenham/cmake/tug_bresenhamConfig.cmake /home/anna/catkin_ws/devel/share/tug_bresenham/cmake/tug_bresenhamConfig.cmake
-/home/anna/catkin_ws/devel/.private/tug_bresenham/share/tug_bresenham/cmake/tug_bresenhamConfig-version.cmake /home/anna/catkin_ws/devel/share/tug_bresenham/cmake/tug_bresenhamConfig-version.cmake

@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_auto_bag/lib/pkgconfig/tug_auto_bag.pc

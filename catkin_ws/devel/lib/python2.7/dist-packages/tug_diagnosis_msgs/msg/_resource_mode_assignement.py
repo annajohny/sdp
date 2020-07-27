@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_diagnosis_msgs/lib/python2.7/dist-packages/tug_diagnosis_msgs/msg/_resource_mode_assignement.py

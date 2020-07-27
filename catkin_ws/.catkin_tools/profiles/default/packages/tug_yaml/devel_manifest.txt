@@ -1,5 +1,0 @@
-utils/tug_yaml
-/home/anna/catkin_ws/devel/.private/tug_yaml/cmake.lock /home/anna/catkin_ws/devel/./cmake.lock
-/home/anna/catkin_ws/devel/.private/tug_yaml/lib/pkgconfig/tug_yaml.pc /home/anna/catkin_ws/devel/lib/pkgconfig/tug_yaml.pc
-/home/anna/catkin_ws/devel/.private/tug_yaml/share/tug_yaml/cmake/tug_yamlConfig-version.cmake /home/anna/catkin_ws/devel/share/tug_yaml/cmake/tug_yamlConfig-version.cmake
-/home/anna/catkin_ws/devel/.private/tug_yaml/share/tug_yaml/cmake/tug_yamlConfig.cmake /home/anna/catkin_ws/devel/share/tug_yaml/cmake/tug_yamlConfig.cmake

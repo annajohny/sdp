@@ -1,6 +1,0 @@
-[35m[1mScanning dependencies of target tug_laser_filters[0m
-[ 25%] [32mBuilding CXX object CMakeFiles/tug_laser_filters.dir/src/angular_filter.cpp.o[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/tug_laser_filters.dir/src/nan_filter.cpp.o[0m
-[ 75%] [32mBuilding CXX object CMakeFiles/tug_laser_filters.dir/src/inf_filter.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/anna/catkin_ws/devel/.private/tug_laser_filters/lib/libtug_laser_filters.so[0m
-[100%] Built target tug_laser_filters

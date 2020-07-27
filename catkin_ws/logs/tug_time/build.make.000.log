@@ -1,5 +1,0 @@
-[35m[1mScanning dependencies of target tug_time[0m
-[ 33%] [32mBuilding CXX object CMakeFiles/tug_time.dir/src/Timer.cpp.o[0m
-[ 66%] [32mBuilding CXX object CMakeFiles/tug_time.dir/src/Timeout.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/anna/catkin_ws/devel/.private/tug_time/lib/libtug_time.so[0m
-[100%] Built target tug_time

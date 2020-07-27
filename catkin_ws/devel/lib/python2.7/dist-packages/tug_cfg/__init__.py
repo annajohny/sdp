@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_cfg/lib/python2.7/dist-packages/tug_cfg/__init__.py

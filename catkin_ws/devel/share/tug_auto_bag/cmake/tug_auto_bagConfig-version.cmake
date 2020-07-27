@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_auto_bag/share/tug_auto_bag/cmake/tug_auto_bagConfig-version.cmake

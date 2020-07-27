@@ -1,8 +1,0 @@
-prefix=/home/anna/catkin_ws/devel/.private/tug_python_utils
-
-Name: tug_python_utils
-Description: Description of tug_python_utils
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

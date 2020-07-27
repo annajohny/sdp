@@ -1,6 +1,0 @@
-Symlinking /home/anna/catkin_ws/devel/lib/libtug_cfg.so
-Symlinking /home/anna/catkin_ws/devel/lib/pkgconfig/tug_cfg.pc
-Symlinking /home/anna/catkin_ws/devel/lib/python2.7/dist-packages/tug_cfg/__init__.py
-Symlinking /home/anna/catkin_ws/devel/share/tug_cfg/cmake/tug_cfg-extras.cmake
-Symlinking /home/anna/catkin_ws/devel/share/tug_cfg/cmake/tug_cfgConfig.cmake
-Symlinking /home/anna/catkin_ws/devel/share/tug_cfg/cmake/tug_cfgConfig-version.cmake

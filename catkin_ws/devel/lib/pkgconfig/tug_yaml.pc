@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_yaml/lib/pkgconfig/tug_yaml.pc

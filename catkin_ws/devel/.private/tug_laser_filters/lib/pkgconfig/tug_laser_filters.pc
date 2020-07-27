@@ -1,8 +1,0 @@
-prefix=/home/anna/catkin_ws/devel/.private/tug_laser_filters
-
-Name: tug_laser_filters
-Description: Description of tug_laser_filters
-Version: 0.0.0
-Cflags: -I/home/anna/catkin_ws/src/utils/tug_laser_filters/include
-Libs: -L${prefix}/lib 
-Requires: 

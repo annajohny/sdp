@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_score_observer/share/tug_score_observer/cmake/tug_score_observerConfig.cmake

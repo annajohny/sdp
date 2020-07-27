@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_observers/lib/pkgconfig/tug_observers.pc

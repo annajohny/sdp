@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_joy/lib/python2.7/dist-packages/tug_joy/__init__.py

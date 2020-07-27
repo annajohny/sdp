@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_moveing_observer/share/tug_moveing_observer/cmake/tug_moveing_observerConfig.cmake

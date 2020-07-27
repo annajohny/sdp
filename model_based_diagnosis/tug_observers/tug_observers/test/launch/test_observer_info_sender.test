@@ -1,4 +1,0 @@
-<launch>
-    <test test-name="test_observer_info_sender" pkg="tug_observers" type="test_observer_info_sender" time-limit="120.0" >
-    </test>
-</launch>

@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_reporter/lib/pkgconfig/tug_reporter.pc

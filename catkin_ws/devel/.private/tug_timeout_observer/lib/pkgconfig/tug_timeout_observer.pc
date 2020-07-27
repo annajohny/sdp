@@ -1,8 +1,0 @@
-prefix=/home/anna/catkin_ws/devel/.private/tug_timeout_observer
-
-Name: tug_timeout_observer
-Description: Description of tug_timeout_observer
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

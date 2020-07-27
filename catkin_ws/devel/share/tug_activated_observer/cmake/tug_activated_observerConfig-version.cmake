@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_activated_observer/share/tug_activated_observer/cmake/tug_activated_observerConfig-version.cmake

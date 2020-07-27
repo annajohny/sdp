@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_resource_observer/share/tug_resource_observer/cmake/tug_resource_observerConfig.cmake

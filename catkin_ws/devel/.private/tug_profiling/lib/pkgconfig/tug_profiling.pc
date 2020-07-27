@@ -1,8 +1,0 @@
-prefix=/home/anna/catkin_ws/devel/.private/tug_profiling
-
-Name: tug_profiling
-Description: Description of tug_profiling
-Version: 0.0.0
-Cflags: -I/home/anna/catkin_ws/src/utils/tug_profiling/include
-Libs: -L${prefix}/lib -ltug_profiling
-Requires: roscpp tug_cfg

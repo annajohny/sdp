@@ -1,6 +1,0 @@
-model_based_diagnosis/tug_observers/tug_observer_plugins/tug_resource_observer
-/home/anna/catkin_ws/devel/.private/tug_resource_observer/cmake.lock /home/anna/catkin_ws/devel/./cmake.lock
-/home/anna/catkin_ws/devel/.private/tug_resource_observer/lib/libresources_plugin.so /home/anna/catkin_ws/devel/lib/libresources_plugin.so
-/home/anna/catkin_ws/devel/.private/tug_resource_observer/lib/pkgconfig/tug_resource_observer.pc /home/anna/catkin_ws/devel/lib/pkgconfig/tug_resource_observer.pc
-/home/anna/catkin_ws/devel/.private/tug_resource_observer/share/tug_resource_observer/cmake/tug_resource_observerConfig.cmake /home/anna/catkin_ws/devel/share/tug_resource_observer/cmake/tug_resource_observerConfig.cmake
-/home/anna/catkin_ws/devel/.private/tug_resource_observer/share/tug_resource_observer/cmake/tug_resource_observerConfig-version.cmake /home/anna/catkin_ws/devel/share/tug_resource_observer/cmake/tug_resource_observerConfig-version.cmake

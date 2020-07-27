@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_cfg/share/tug_cfg/cmake/tug_cfgConfig.cmake

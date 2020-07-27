@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_observers/lib/python2.7/dist-packages/tug_observers/__init__.py

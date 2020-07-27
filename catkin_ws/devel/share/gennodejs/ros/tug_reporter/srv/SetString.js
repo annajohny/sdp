@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_reporter/share/gennodejs/ros/tug_reporter/srv/SetString.js

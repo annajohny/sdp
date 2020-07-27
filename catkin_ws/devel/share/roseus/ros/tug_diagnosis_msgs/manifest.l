@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_diagnosis_msgs/share/roseus/ros/tug_diagnosis_msgs/manifest.l

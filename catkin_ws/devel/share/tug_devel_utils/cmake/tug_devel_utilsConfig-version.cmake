@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_devel_utils/share/tug_devel_utils/cmake/tug_devel_utilsConfig-version.cmake

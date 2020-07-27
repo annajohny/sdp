@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Robot Diagnosis</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{ url_for('static', filename='bootstrap.min.css') }}" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="{{ url_for('static', filename='theme.css') }}" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Diagnosis</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="#">Home</a></li>
+            <li class="active"><a href="#">Robot Diagnosis</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container theme-showcase col-sm-6 col-sm-offset-3" role="main">
+
+      <div class="row">
+        <div>
+
+          <div class="panel panel-primary">
+
+            <div class="panel-heading">
+              <h3 class="panel-title">Diagnoses</h3>
+            </div>
+
+            <div class="panel-body">
+
+              
+
+              <div class="page-header"></div>
+	      {% for diagnosis,diagnoses in context %}
+              <ul class="nav nav-pills" role="tablist">
+                
+                <li><a>Stamp: <span class="badge">{{ diagnosis.stamp}}</span></a></li>
+                <li><a>Sequence num: <span class="badge">{{ diagnosis.seq}}</span></a></li>
+                <li><a>Frame ID: <span class="badge">{{ diagnosis.frame_id}}</span></a></li>
+                <li><a>Type: <span class="badge">{{ diagnosis.msg_type}}</span></a></li>
+                <li><a>Message: <span class="badge">Empty</span></a></li>
+                <li><a>Header: <span class="badge">{{diagnoses.header}}</span></a></li>
+                <li><a>Resources: <span class="badge">{{diagnoses.resources}}</span></a></li>
+                <li><a>observation: <span class="badge">{{diagnoses.observation}}</span></a></li>
+                <li><a>Observation Message: <span class="badge">{{diagnoses.observation_msg}}</span></a></li>
+                <li><a>Verbose observation Message: <span class="badge">{{diagnoses.verbose_observation_msg}}</span></a></li>
+
+              </ul>
+              <div class="page-header"></div>
+	      
+              {% endfor %}
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+

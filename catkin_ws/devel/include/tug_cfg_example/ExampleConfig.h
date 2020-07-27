@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_cfg_example/include/tug_cfg_example/ExampleConfig.h

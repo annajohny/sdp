@@ -1,6 +1,0 @@
-utils/tug_python_utils
-/home/anna/catkin_ws/devel/.private/tug_python_utils/cmake.lock /home/anna/catkin_ws/devel/./cmake.lock
-/home/anna/catkin_ws/devel/.private/tug_python_utils/lib/pkgconfig/tug_python_utils.pc /home/anna/catkin_ws/devel/lib/pkgconfig/tug_python_utils.pc
-/home/anna/catkin_ws/devel/.private/tug_python_utils/lib/python2.7/dist-packages/tug_python_utils/__init__.py /home/anna/catkin_ws/devel/lib/python2.7/dist-packages/tug_python_utils/__init__.py
-/home/anna/catkin_ws/devel/.private/tug_python_utils/share/tug_python_utils/cmake/tug_python_utilsConfig.cmake /home/anna/catkin_ws/devel/share/tug_python_utils/cmake/tug_python_utilsConfig.cmake
-/home/anna/catkin_ws/devel/.private/tug_python_utils/share/tug_python_utils/cmake/tug_python_utilsConfig-version.cmake /home/anna/catkin_ws/devel/share/tug_python_utils/cmake/tug_python_utilsConfig-version.cmake

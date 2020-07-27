@@ -1,5 +1,0 @@
-Symlinking /home/anna/catkin_ws/devel/lib/libobserver_plugin_utils.so
-Symlinking /home/anna/catkin_ws/devel/lib/pkgconfig/tug_observer_plugin_utils.pc
-Symlinking /home/anna/catkin_ws/devel/lib/python2.7/dist-packages/tug_observer_plugin_utils/__init__.py
-Symlinking /home/anna/catkin_ws/devel/share/tug_observer_plugin_utils/cmake/tug_observer_plugin_utilsConfig-version.cmake
-Symlinking /home/anna/catkin_ws/devel/share/tug_observer_plugin_utils/cmake/tug_observer_plugin_utilsConfig.cmake

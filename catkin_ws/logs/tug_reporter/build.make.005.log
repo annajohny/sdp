@@ -1,7 +1,0 @@
-[  0%] Built target _tug_reporter_generate_messages_check_deps_SetString
-[ 28%] Built target tug_reporter_generate_messages_eus
-[ 42%] Built target tug_reporter_generate_messages_nodejs
-[ 57%] Built target tug_reporter_generate_messages_cpp
-[ 71%] Built target tug_reporter_generate_messages_lisp
-[100%] Built target tug_reporter_generate_messages_py
-[100%] Built target tug_reporter_generate_messages

@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target activated_plugin[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/activated_plugin.dir/src/ActivatedPlugin.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /home/anna/catkin_ws/devel/.private/tug_activated_observer/lib/libactivated_plugin.so[0m
-[100%] Built target activated_plugin

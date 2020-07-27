@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_python_utils/lib/pkgconfig/tug_python_utils.pc

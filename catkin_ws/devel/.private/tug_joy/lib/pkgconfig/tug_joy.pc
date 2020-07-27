@@ -1,8 +1,0 @@
-prefix=/home/anna/catkin_ws/devel/.private/tug_joy
-
-Name: tug_joy
-Description: Description of tug_joy
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

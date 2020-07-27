@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_diagnosis_msgs/share/tug_diagnosis_msgs/cmake/tug_diagnosis_msgsConfig.cmake

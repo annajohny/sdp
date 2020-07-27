@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_observers_msgs/include/tug_observers_msgs/observer_info.h

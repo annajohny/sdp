@@ -1,6 +1,0 @@
-Linked: (/home/anna/catkin_ws/devel/.private/tug_observers/lib/libtug_observer_plugin_base.so, /home/anna/catkin_ws/devel/lib/libtug_observer_plugin_base.so)
-Linked: (/home/anna/catkin_ws/devel/.private/tug_observers/lib/pkgconfig/tug_observers.pc, /home/anna/catkin_ws/devel/lib/pkgconfig/tug_observers.pc)
-Linked: (/home/anna/catkin_ws/devel/.private/tug_observers/lib/tug_observers/tug_observers_node, /home/anna/catkin_ws/devel/lib/tug_observers/tug_observers_node)
-Linked: (/home/anna/catkin_ws/devel/.private/tug_observers/lib/python2.7/dist-packages/tug_observers/__init__.py, /home/anna/catkin_ws/devel/lib/python2.7/dist-packages/tug_observers/__init__.py)
-Linked: (/home/anna/catkin_ws/devel/.private/tug_observers/share/tug_observers/cmake/tug_observersConfig.cmake, /home/anna/catkin_ws/devel/share/tug_observers/cmake/tug_observersConfig.cmake)
-Linked: (/home/anna/catkin_ws/devel/.private/tug_observers/share/tug_observers/cmake/tug_observersConfig-version.cmake, /home/anna/catkin_ws/devel/share/tug_observers/cmake/tug_observersConfig-version.cmake)

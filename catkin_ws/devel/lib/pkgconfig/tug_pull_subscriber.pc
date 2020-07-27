@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_pull_subscriber/lib/pkgconfig/tug_pull_subscriber.pc

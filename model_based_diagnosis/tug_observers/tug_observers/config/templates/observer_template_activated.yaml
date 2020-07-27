@@ -1,5 +1,0 @@
-setup:
-- type: activated
-  resource_topic: /node_infos
-  nodes:
-  - name: /nodeA

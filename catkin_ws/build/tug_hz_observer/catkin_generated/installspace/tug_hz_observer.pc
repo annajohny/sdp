@@ -1,8 +1,0 @@
-prefix=/home/anna/catkin_ws/install
-
-Name: tug_hz_observer
-Description: Description of tug_hz_observer
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

@@ -1,6 +1,0 @@
-set(tug_observers_SETUP_PY_VERSION "0.0.0")
-set(tug_observers_SETUP_PY_SCRIPTS "")
-set(tug_observers_SETUP_PY_PACKAGES "tug_observers")
-set(tug_observers_SETUP_PY_PACKAGE_DIRS "scripts/tug_observers")
-set(tug_observers_SETUP_PY_MODULES "")
-set(tug_observers_SETUP_PY_MODULE_DIRS "")

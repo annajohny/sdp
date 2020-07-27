@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_protobuf_example_msg/share/tug_protobuf_example_msg/cmake/tug_protobuf_example_msgConfig-version.cmake

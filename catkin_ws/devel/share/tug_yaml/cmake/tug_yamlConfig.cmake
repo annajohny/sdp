@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_yaml/share/tug_yaml/cmake/tug_yamlConfig.cmake

@@ -1,8 +1,0 @@
-prefix=/home/anna/catkin_ws/devel/.private/tug_activated_observer
-
-Name: tug_activated_observer
-Description: Description of tug_activated_observer
-Version: 0.0.0
-Cflags: -I/home/anna/catkin_ws/src/model_based_diagnosis/tug_observers/tug_observer_plugins/tug_activated_observer/include
-Libs: -L${prefix}/lib -lresources_plugin
-Requires: 

@@ -1,4 +1,0 @@
-[31m[1mCMake Error[0m at /home/anna/catkin_ws/src/model_based_diagnosis/tug_observers/tug_observers/CMakeLists.txt:198 (roslint_cpp):
-  Unknown CMake command "roslint_cpp".
-
-

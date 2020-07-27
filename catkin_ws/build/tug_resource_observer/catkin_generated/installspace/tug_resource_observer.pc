@@ -1,8 +1,0 @@
-prefix=/home/anna/catkin_ws/install
-
-Name: tug_resource_observer
-Description: Description of tug_resource_observer
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lresources_plugin
-Requires: 

@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_observers_msgs/lib/python2.7/dist-packages/tug_observers_msgs/__init__.py

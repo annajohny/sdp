@@ -1,8 +1,0 @@
-utils/tug_cfg
-/home/anna/catkin_ws/devel/.private/tug_cfg/cmake.lock /home/anna/catkin_ws/devel/./cmake.lock
-/home/anna/catkin_ws/devel/.private/tug_cfg/lib/libtug_cfg.so /home/anna/catkin_ws/devel/lib/libtug_cfg.so
-/home/anna/catkin_ws/devel/.private/tug_cfg/lib/pkgconfig/tug_cfg.pc /home/anna/catkin_ws/devel/lib/pkgconfig/tug_cfg.pc
-/home/anna/catkin_ws/devel/.private/tug_cfg/lib/python2.7/dist-packages/tug_cfg/__init__.py /home/anna/catkin_ws/devel/lib/python2.7/dist-packages/tug_cfg/__init__.py
-/home/anna/catkin_ws/devel/.private/tug_cfg/share/tug_cfg/cmake/tug_cfg-extras.cmake /home/anna/catkin_ws/devel/share/tug_cfg/cmake/tug_cfg-extras.cmake
-/home/anna/catkin_ws/devel/.private/tug_cfg/share/tug_cfg/cmake/tug_cfgConfig.cmake /home/anna/catkin_ws/devel/share/tug_cfg/cmake/tug_cfgConfig.cmake
-/home/anna/catkin_ws/devel/.private/tug_cfg/share/tug_cfg/cmake/tug_cfgConfig-version.cmake /home/anna/catkin_ws/devel/share/tug_cfg/cmake/tug_cfgConfig-version.cmake

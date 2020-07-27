@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_reporter/share/common-lisp/ros/tug_reporter/srv/tug_reporter-srv.asd

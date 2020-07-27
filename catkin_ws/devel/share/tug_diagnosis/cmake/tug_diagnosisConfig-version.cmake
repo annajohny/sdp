@@ -1,1 +1,0 @@
-/home/anna/catkin_ws/devel/.private/tug_diagnosis/share/tug_diagnosis/cmake/tug_diagnosisConfig-version.cmake

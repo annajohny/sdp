@@ -1,7 +1,0 @@
-utils/tug_profiling
-/home/anna/catkin_ws/devel/.private/tug_profiling/cmake.lock /home/anna/catkin_ws/devel/./cmake.lock
-/home/anna/catkin_ws/devel/.private/tug_profiling/lib/libtug_profiling.so /home/anna/catkin_ws/devel/lib/libtug_profiling.so
-/home/anna/catkin_ws/devel/.private/tug_profiling/lib/pkgconfig/tug_profiling.pc /home/anna/catkin_ws/devel/lib/pkgconfig/tug_profiling.pc
-/home/anna/catkin_ws/devel/.private/tug_profiling/include/tug_profiling/StatisticsPrinterConfig.h /home/anna/catkin_ws/devel/include/tug_profiling/StatisticsPrinterConfig.h
-/home/anna/catkin_ws/devel/.private/tug_profiling/share/tug_profiling/cmake/tug_profilingConfig-version.cmake /home/anna/catkin_ws/devel/share/tug_profiling/cmake/tug_profilingConfig-version.cmake
-/home/anna/catkin_ws/devel/.private/tug_profiling/share/tug_profiling/cmake/tug_profilingConfig.cmake /home/anna/catkin_ws/devel/share/tug_profiling/cmake/tug_profilingConfig.cmake
